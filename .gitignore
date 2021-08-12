@@ -1,11 +1,11 @@
 *.class
-/bin/
-/modules/
-/.settings/
-/.gradle/
-/build/
+bin/
+modules/
+.settings/
+.gradle/
+build/
 .classpath
 .project
-/.idea/
-/out/
+.idea/
+out/
 
