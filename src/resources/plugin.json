@@ -1,11 +1,11 @@
 {
-  "name": "Plugin",
-  "displayName": "Plugin",
-  "description": "It is a plugin",
-  "author": "Darkdustry",
-  "main": "mindurka.Template",
+  "name": "MinDiscord",
+  "displayName": "MinDiscord",
+  "description": "plugin for discord chatting connection.",
+  "author": "janu8ry",
+  "main": "mindiscord.DiscordPlugin",
   "hidden": false,
   "java": true,
-  "version": "2.1",
+  "version": "1.0",
   "minGameVersion": 127.2
 }
