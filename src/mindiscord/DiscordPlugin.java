@@ -1,10 +1,10 @@
-package mindurka;
+package mindiscord;
 
 import arc.util.*;
 
 import mindustry.mod.*;
 
-public class Template extends Plugin {
+public class DiscordPlugin extends Plugin {
 
     @Override
     public void init() {
